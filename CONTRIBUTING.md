@@ -1,30 +1,36 @@
 # Contributing to Hello There
 
-Thank you for your interest in contributing to Hello There – a human-first, ethical alternative to mainstream social networks.
+Thank you for your interest in contributing to Hello There!  
+We're building a calm, ethical social platform – focused on **privacy, live human connection**, and **freedom from algorithms**.
 
-### ✨ Core Philosophy
+This repository is currently in the **concept and outreach phase**. If you're a developer, designer, ethical thinker, or privacy advocate, we’d love to hear from you.
 
-We value:
-- Real human connection over engagement metrics
-- Privacy, proximity, and peace of mind
-- Ethical technology: no tracking, no profiling, no manipulation
+## 💡 What We’re Looking For
 
-### 💬 How to Contribute
+- Developers (privacy-focused, open source mindset)
+- UX/UI thinkers who care about minimalism and clarity
+- Ethical contributors who believe in human-first tech
+- People with ideas for digital wellbeing, youth safety, decentralization
 
-We welcome:
-- Developers with experience in privacy-first apps
-- UX/UI designers who understand minimalism and accessibility
-- Thinkers and testers who care about societal impact
+## 🚦 Before You Start
 
-### 🛑 What we don't want
-- No use of recommendation algorithms that amplify addiction
-- No ad-driven or exploitative monetization models
-- No design choices that go against the idea of slowing down and reconnecting
+Please read the [Code of Conduct](./CODE_OF_CONDUCT.md) before engaging.
 
-### 🧾 Legal note
-This repository is under MIT license. Use freely but respectfully.
+## ✍️ How to Contribute
 
----
+1. Open an issue to introduce yourself or propose an idea.
+2. You can also email us directly: [HelloThere.App@protonmail.com](mailto:HelloThere.App@protonmail.com)
+3. If you're working on something you'd like to share privately, just mention it and we’ll reach out securely.
 
-📬 Contact: [HelloThere.App@protonmail.com](mailto:HelloThere.App@protonmail.com)
-🌍 Location: Germany (Großschönau), Estonian e-residency
+## 🛠️ Tech Stack (Planned)
+
+- Core app: Flutter / Swift / Kotlin (tbd)
+- Backend: privacy-first architecture, possibly using EU hosting
+- GitHub discussions or Matrix/Signal group (in future)
+
+## 🌱 Early-Stage Status
+
+This is not a traditional open source repo yet.  
+But if you're here, it's likely you're meant to help shape it.
+
+Thank you for showing up at the start.
